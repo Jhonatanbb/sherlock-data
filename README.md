@@ -4,4 +4,4 @@ JSON data used by Sherlock, It's available on [https://sherlock-project.github.i
 ## License
 
 This software is released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode) License.
-![Preview](https://github.com/howardchn/PhoneNumberLocator-JS/raw/master/preview.png)5199635010
+![Preview](https://github.com/howardchn/PhoneNumberLocator-JS/raw/master/preview.png)5199635010 
